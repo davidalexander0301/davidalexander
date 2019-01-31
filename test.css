@@ -18,13 +18,14 @@ body {
 
 }
 
-/* customers button */
+/* customers buttons */
 
 .buttons {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    flex-direction: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
 }
 
 .button {
@@ -36,6 +37,7 @@ body {
     margin: 50px 0 0 0;
 }
 
+/* nav bar */
 
 .navigation {
     width: 100%;
