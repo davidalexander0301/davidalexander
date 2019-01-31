@@ -158,3 +158,11 @@ body {
     padding: 2px;
     font-size:30px;
 }
+
+
+/*ADD CUSTOMER BUTTON*/
+
+.addcustomer {
+    color: white;
+    text-decoration: none;
+}
