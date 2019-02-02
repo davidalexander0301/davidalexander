@@ -191,13 +191,3 @@ body {
 }
 
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-    body {
-        width: 480px;
-        max-width: 100%;
-    }
-    .button {
-        width: 
-        
-    }
-}
